@@ -1,0 +1,100 @@
+Abadlia : Hassen;M ,Tania;F : / : /
+Abdelhak : Ilyes;M ,Tiziri;F : Imane;F ,Arezki;M ,Ben Salah;M ,Nabila;F ,Malak;F : /
+Abdelkebir : Soufiane;M ,Selma;F : Ryad;M ,Kenza;F ,Samira;F ,Omar Karim;M : Hyundai;4444-555-54
+Abdelwahed : Hocine Ali;M ,Baya;F : Hiba;F ,Sofian;M ,Chiraz;F ,Ben Salah;M : Audi;9102-183-39 ,Fiat;9018-283-39 ,Audi;8907-172-28
+Aberkane : Salima;F : Faouzi;M ,Safia;F ,Abdelmoumene;M : Chevrolet;7786-896-57 ,Hyundai;3042-526-13 ,Nissan;4053-637-24
+Ait Ahmed : Youcef;M ,Syrine;F : Aziz;M ,Kenza;F ,Madani;M : Mazda;9999-000-19
+Alicherif : / : Mahmoud;M : Audi;3333-444-53 ,Kia;4455-667-44 ,BMW;1350-246-21
+Alouane : Tayeb;M ,Chiraz;F : Ismael;M : Ford;3332-442-33 ,Tesla;0124-395-30 ,Volkswagen;0246-135-20 ,BMW;7891-062-27
+Ammi Said : Ilhem;F : Hassina;F ,Aghiles;F ,Abdelghani;M ,Abdelkader;M ,Messaoud;M : Nissan;2222-333-42 ,Chevrolet;0119-293-40 ,Volkswagen;3457-628-33 ,Volvo;8907-172-28
+Amokrane : Sid Ahmed;M ,Lilia;F : Warda;F ,Ouided;F ,Ali;M ,Rani;M ,Abdelaziz;M : Subaru;9908-018-29 ,Volvo;0123-456-55 ,Kia;5467-980-35
+Amroun : / : Amir;M ,Hedi;M ,Nadir;M : Mercedes-Benz;3046-527-23
+Ariche : Karim Ali;M ,Rim;F : Sofiane;M ,Cheyma;F : Subaru;7776-886-27 ,BMW;5064-748-35 ,Mazda;3332-442-33
+Bachircherif : Feryel;F : Mounir;M ,Naela;F : Volkswagen;7913-802-47 ,Mazda;3245-768-13 ,Kia;8027-913-58
+Barhoumi : Nassim;M ,Rayane;F : Khaled;M ,Ben Salah;M ,Tariq;M ,Kader;M ,Chahrazed;F : Lexus;5564-674-35 ,Volkswagen;2461-357-32 ,BMW;9013-284-49
+Beghernaout : / : Tarik;M ,Dahmane;M ,Adel;M ,Ibrahim;M ,Sami;M : BMW;2222-333-42 ,Ford;1230-405-51
+Bekkouche : / : Abdelhakim;M ,Rim;F ,Nouha;F ,Ouided;F : Audi;3042-526-13 ,Mercedes-Benz;0009-119-30
+Belabbes : Samy;M ,Rabha;F : Walid;M ,Hakim;M ,Saadia;F : Ford;0009-119-30 ,Nissan;3046-527-23 ,Fiat;9138-024-39
+Beladjal : / : Zinedine;M ,Hafsa;F ,Dania;F : Fiat;4443-553-44
+Belaid : Zahra;F : Zouhir;M ,Sabrina;F ,Tahar;M ,Zineb;F ,Loubna;F : Volkswagen;8897-907-18 ,Jaguar;1350-246-21 ,Volvo;5564-674-35 ,Toyota;2134-657-52
+Belghaouia : / : Ibtissem;F : Toyota;2231-341-52
+Belkileni : / : Rabia;F ,Joumana;F ,Chakib;M ,Kheira;F ,Kais;M : Mercedes-Benz;7788-990-27 ,Subaru;0009-119-30
+Benabdallah : / : Zaki;M : Ford;0091-123-30 ,Ford;0246-135-20
+Benalia : Abdelhafid;M : Hocine;M : BMW;9801-324-29 ,Lexus;4443-553-44
+Benkerri : / : Ibrahim;M ,Mehrez;M ,Benyamine;M ,Sara;F : Subaru;2221-331-22 ,Volkswagen;2035-416-12 ,Audi;1110-220-11 ,Fiat;2233-445-22
+Benmallem : Djamel;M ,Mehira;F : / : /
+Bensba : / : Farouk;M : Toyota;6785-950-56
+Benstaali : Abdessalem;M ,Cheyma;F : Tarik;M ,Tania;F ,Sabrina;F : Peugeot;7086-960-57 ,BMW;9013-284-49
+Bouchelkia : Benyamine;M ,Chiraz;F : Sofiane;M ,Idir;M : Volvo;5064-748-35
+Boudeffar : Faouzi;M ,Nermine;F : Fouad;M ,Khelifa;M ,Amine Said;M : Toyota;1111-222-31 ,Subaru;3042-526-13 ,Fiat;6075-859-46
+Boudjenah : Ismael Said;M : Sonia;F ,Tania;F ,Nourhane;F ,Karim Ali;M ,Ilyes;M : Renault;1120-230-41 ,Honda;7890-123-22
+Boudrissa : / : Redha;M ,Tahar;M ,Sofiane Ahmed;M : /
+Boulaarouk : Rabah Ali;M : Hafsa;F ,Djamel;M ,Sami;M ,Lylia;F ,Reda;M : Jaguar;8902-173-38 ,Subaru;8897-907-18 ,Renault;2341-516-12
+Bourehla : Amine;M ,Yamina;F : Zahir;M ,Basma;F ,Lounis;M : Toyota;0246-135-20 ,BMW;1111-222-31 ,Fiat;0009-119-30 ,Fiat;3046-527-23
+Bouziane : Malika;F : Mustapha;M ,Hafid;M : Honda;4356-879-24 ,Volkswagen;4568-739-44 ,Volkswagen;7916-802-47 ,Mazda;2461-357-32
+Chabane : Nour;F : Elissa;F ,Rachid Ali;M ,Ferial;F ,Abdelhamid;M : Fiat;6677-889-16 ,Ford;1024-305-51 ,Kia;2222-333-42 ,Lexus;0123-456-55
+Cheballah : / : Ilhem;F : /
+Chenni : Fouad;M : / : /
+Dahouche : / : Syrine;F : Volvo;5554-664-55 ,Fiat;6802-791-36 ,Volvo;0091-123-30 ,Mercedes-Benz;7890-123-22
+Djedouani : Benaissa;M ,Yamina;F : Omar Said;M : Nissan;9998-008-49 ,Lexus;5679-840-55 ,Subaru;9013-284-49 ,Kia;4453-563-24
+Djellal : Rania;F : Rahma;F ,Hayfa;F ,Baha;M ,Hassen;M : Volkswagen;6802-791-36 ,Volkswagen;3456-789-12 ,Subaru;4568-739-44 ,Tesla;8897-907-18
+Djessas : Yousra;F : Haroun;M ,Selma;F ,Ikhlas;F ,Younes Ali;M : Jaguar;2233-445-22 ,Fiat;0246-135-20
+Drissi : Hichem Ali;M ,Saadia;F : Tarik;M ,Ryad;M ,Racha;F ,Soumaya;F : Jaguar;5678-901-56
+Faradji : / : Smaine;M ,Naima;F : Nissan;3342-452-13 ,Tesla;1111-222-31 ,Toyota;4455-667-44
+Feghour : Moussa;M ,Mahassine;F : Mounir;M : Renault;8901-234-33
+Fellague Chebra : / : Yacoub;M : /
+Ghouici : Benaissa;M : Fethi Ahmed;M ,Feryel;F ,Younes Karim;M : Mazda;4435-567-44 ,Tesla;5791-680-25 ,Renault;6805-791-36 ,Renault;8097-071-18
+Gouacem : / : Safia;F : Ford;4453-563-24 ,Hyundai;8887-997-38
+Grifa : Samir;M : Nourhane;F ,Amir;M ,Djazia;F ,Hedi;M ,Asrar;F : Nissan;1234-567-23
+Haddouche : / : Aicha;F ,Zineb;F : Volkswagen;8790-213-18 ,Mazda;8907-172-28 ,Peugeot;6785-950-56 ,Nissan;1020-304-41
+Hadjkhelouf : Hichem Ali;M ,Badia;F : / : /
+Halkoum : Joumana;F : Nour;F ,Arezki;M ,Arezki Yacine;M ,Samar;F ,Massin;M : Volkswagen;8907-172-28 ,Renault;7916-802-47 ,Lexus;4435-567-44
+Hallal : / : Saloua;F ,Ghani;M ,Hakim Said;M : Renault;8887-997-38 ,Volvo;1235-406-11 ,Volkswagen;6657-789-16 ,Peugeot;8888-999-48
+Hamadouche : / : Zahra;F ,Saloua;F ,Redouane Ali;M : Kia;9908-018-29
+Hammas : / : Brahim;M ,Omar Said;M : Kia;9998-008-49 ,Subaru;4435-567-44
+Kaddour : / : Narjess;F : Toyota;5064-748-35
+Kahlouche : Djamila;F : Mounira;F ,Zoulikha;F ,Omar Ali;M ,Farouk;M : Ford;2035-416-12 ,Toyota;5674-849-45
+Kessab : Mokhtar;M ,Samar;F : Idir;M : Audi;0091-123-30 ,Honda;6657-789-16 ,Honda;9012-345-44
+Khelifi : / : Elyes;M ,Djamilla;F ,Massoud;M ,Samira;F : Jaguar;4568-739-44 ,Mercedes-Benz;5068-749-45
+Khellas : Zoubir Ali;M : / : Mazda;0119-293-40 ,Mazda;2346-517-22 ,Audi;7777-888-37
+Khenchouche : Akram;M ,Saloua;F : Bachir;M ,Mounir;M ,Ouided;F : Lexus;6805-791-36 ,Jaguar;9102-183-39 ,Audi;3245-768-13
+Kherroubi : Zaki;M ,Asma;F : Tayeb;M ,Nawel;F ,Cheyma;F : /
+Khireche : Abdessalam;M : / : /
+Kifouche : Kawthar;F : Omar;M ,Selma;F ,Abdelwahid;M ,Nassira;F : Mercedes-Benz;7890-123-22
+Kimouche : Saoussen;F : Aicha;F ,Omar Karim;M ,Lamia;F ,Malik;M ,Ammar Ali;M : Renault;7890-123-22 ,Honda;0123-456-55 ,Jaguar;0019-129-40 ,Ford;4683-579-14
+Korchi : / : Ikhlas;F ,Syrine;F ,Maissa;F ,Ismael Said;M ,Abdellah;M : Peugeot;6780-951-16 ,Fiat;6802-791-36 ,Ford;4568-739-44
+Krifi : / : Mourad;M ,Kader;M : Kia;6785-950-56 ,Kia;0246-135-20 ,Audi;4563-738-34 ,Nissan;9138-024-39
+Lahreche : / : Nermine;F ,Hana;F ,Zineb;F ,Malik;M ,Yasser;M : Peugeot;3324-456-33 ,Peugeot;3344-556-33
+Lanasri : Mohamed Amine;M ,Meriem;F : / : Audi;7086-960-57 ,Lexus;3452-627-23 ,Jaguar;3572-468-43
+Leticia : Badia;F : Nesrine;F ,Hassan Ali;M : Honda;5467-980-35
+Maddou : Zine Eddine;M : Nadjet;F ,Ismail;M ,Sonia;F ,Ines;F ,Yara;F : Peugeot;0119-293-40
+Maguedouda : / : Mustapha;M : Volkswagen;6666-777-26 ,Mazda;4435-567-44 ,Lexus;7080-961-17 ,Audi;2231-341-52
+Maiche : / : Saad;M : /
+Malouci : Omar;M ,Racha;F : Arezki Said;M ,Sami;M ,Rabah;M : /
+Mebbani : / : Chiraz;F : Jaguar;6675-785-46
+Medfouni : Smaine;M ,Warda;F : Abdelaziz;M : /
+Mehamli : / : Abdelmounaim;M ,Hocine;M : Subaru;9801-324-29 ,Nissan;2213-345-22 ,Renault;9013-284-49
+Mersis : Fatoum;F : Karima;F ,Najet;F ,Yousra;F : Audi;7786-896-57
+Mezli : / : Assia;F : Honda;2035-416-12
+Mhamdi : Hakim Said;M ,Saadia;F : Ahmed;M ,Benyamine;M ,Joumana;F ,Feryel;F ,Fella;F : Nissan;9801-324-29 ,Lexus;1020-304-41
+Mouloud : Hakim Said;M ,Malak;F : Ismael Said;M ,Rokia;F ,Saida;F ,Soufiane;M ,Idir Ali;M : Lexus;2231-341-52 ,Fiat;1350-246-21
+Nabi : Ilhem;F : Amin;M ,Abderrahim;M : Peugeot;6780-951-16 ,Volkswagen;3456-789-12
+Nardjes : Hichem;M ,Celia;F : / : /
+Nesrine : Younes;M ,Kaouther;F : Loubna;F ,Tahar;M : Honda;6789-012-11 ,Toyota;9108-182-29 ,Audi;6780-951-16
+Noussiba : Fodil;M : Abdessalam;M : /
+Ouhemna : Tayeb Mohamed;M ,Asrar;F : Benali;M ,Abdelkarim;M ,Elhem;F : Ford;0011-223-30 ,Subaru;7777-888-37
+Ouldamer : Ali;M : Abdelkarim;M ,Tiziri;F : Tesla;1023-546-41
+Rabia : / : Safia;F ,Saif;M ,Yasmine;F ,Omar;M : BMW;8879-901-38
+Rahali : Ammar;M ,Assia;F : Hind;F ,Riad;M ,Mehrez;M ,Sihem;F ,Halima;F : Volvo;3342-452-13 ,Hyundai;4563-738-34 ,Kia;6657-789-16
+Rekik : Oumayma;F : Malak;F ,Noureddine;M ,Warda;F ,Badia;F : Honda;7776-886-27 ,Mazda;6802-791-36
+Rezig : Mokhtar;M ,Yamina;F : Khelifa;M ,Rokia;F : /
+Saadi : Anouar;M ,Tahia;F : Taous;F ,Lilia;F ,Mustafa;M ,Abdessalam;M ,Houari;M : Mercedes-Benz;5064-748-35 ,Audi;4568-739-44 ,Subaru;4567-890-34 ,Lexus;0129-394-50
+Samah : Nour;F : Fella;F ,Saadia;F : Fiat;7916-802-47 ,Hyundai;5555-666-15
+Tahri : / : Aida;F ,Zaki;M ,Sid Ahmed;M : Volvo;7689-102-57 ,Nissan;6805-791-36 ,Renault;5794-680-25
+Tegguer : Hafidh;M ,Soraya;F : Najet;F : Audi;7913-802-47 ,Audi;2461-357-32
+Tibouk : Nazim;M ,Djamilla;F : Ali Ahmed;M ,Saloua;F ,Hadia;F : Chevrolet;3342-452-13 ,Jaguar;0249-135-20 ,Honda;9102-183-39
+Toutou : Azzedine;M ,Amina;F : / : Lexus;7776-886-27 ,Toyota;2345-678-45 ,Ford;6079-850-56
+Yagoubi : Nouredine;M ,Shayma;F : / : Chevrolet;0246-135-20 ,Nissan;0113-294-50 ,Mercedes-Benz;2461-357-32
+Yazi : Bachir Said;M ,Siham;F : Kheira;F : Ford;6578-091-46 ,Lexus;9998-008-49
+Zerroug : Hichem;M ,Aouatef;F : Feriel;F : Ford;8901-234-33 ,Chevrolet;3332-442-33
+Zidelmal : / : Loubna;F : Toyota;5554-664-55
